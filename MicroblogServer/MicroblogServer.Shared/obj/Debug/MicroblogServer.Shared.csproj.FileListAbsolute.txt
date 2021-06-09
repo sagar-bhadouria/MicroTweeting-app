@@ -1,0 +1,9 @@
+D:\microblogging-site\MicroblogServer\MicroblogServer.Shared\bin\Debug\MicroblogServer.Shared.dll
+D:\microblogging-site\MicroblogServer\MicroblogServer.Shared\bin\Debug\MicroblogServer.Shared.pdb
+D:\microblogging-site\MicroblogServer\MicroblogServer.Shared\bin\Debug\BCrypt.Net.dll
+D:\microblogging-site\MicroblogServer\MicroblogServer.Shared\bin\Debug\BCrypt.Net.xml
+D:\microblogging-site\MicroblogServer\MicroblogServer.Shared\obj\Debug\MicroblogServer.Shared.csproj.AssemblyReference.cache
+D:\microblogging-site\MicroblogServer\MicroblogServer.Shared\obj\Debug\MicroblogServer.Shared.csproj.CoreCompileInputs.cache
+D:\microblogging-site\MicroblogServer\MicroblogServer.Shared\obj\Debug\MicroblogServer.Shared.csproj.CopyComplete
+D:\microblogging-site\MicroblogServer\MicroblogServer.Shared\obj\Debug\MicroblogServer.Shared.dll
+D:\microblogging-site\MicroblogServer\MicroblogServer.Shared\obj\Debug\MicroblogServer.Shared.pdb

@@ -1,0 +1,16 @@
+D:\microblogging-site\MicroblogServer\Microblog.Server.Bussiness\bin\Debug\Microblog.Server.Bussiness.dll
+D:\microblogging-site\MicroblogServer\Microblog.Server.Bussiness\bin\Debug\Microblog.Server.Bussiness.pdb
+D:\microblogging-site\MicroblogServer\Microblog.Server.Bussiness\bin\Debug\BCrypt.Net.dll
+D:\microblogging-site\MicroblogServer\Microblog.Server.Bussiness\bin\Debug\MicroblogServer.Entity.dll
+D:\microblogging-site\MicroblogServer\Microblog.Server.Bussiness\bin\Debug\MicroblogServer.Shared.dll
+D:\microblogging-site\MicroblogServer\Microblog.Server.Bussiness\bin\Debug\EntityFramework.dll
+D:\microblogging-site\MicroblogServer\Microblog.Server.Bussiness\bin\Debug\MicroblogServer.Entity.pdb
+D:\microblogging-site\MicroblogServer\Microblog.Server.Bussiness\bin\Debug\MicroblogServer.Entity.dll.config
+D:\microblogging-site\MicroblogServer\Microblog.Server.Bussiness\bin\Debug\MicroblogServer.Shared.pdb
+D:\microblogging-site\MicroblogServer\Microblog.Server.Bussiness\bin\Debug\BCrypt.Net.xml
+D:\microblogging-site\MicroblogServer\Microblog.Server.Bussiness\bin\Debug\EntityFramework.xml
+D:\microblogging-site\MicroblogServer\Microblog.Server.Bussiness\obj\Debug\Microblog.Server.Business.csproj.AssemblyReference.cache
+D:\microblogging-site\MicroblogServer\Microblog.Server.Bussiness\obj\Debug\Microblog.Server.Business.csproj.CoreCompileInputs.cache
+D:\microblogging-site\MicroblogServer\Microblog.Server.Bussiness\obj\Debug\Microblog.Server.Business.csproj.CopyComplete
+D:\microblogging-site\MicroblogServer\Microblog.Server.Bussiness\obj\Debug\Microblog.Server.Bussiness.dll
+D:\microblogging-site\MicroblogServer\Microblog.Server.Bussiness\obj\Debug\Microblog.Server.Bussiness.pdb
